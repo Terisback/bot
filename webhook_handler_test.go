@@ -10,7 +10,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/go-telegram/bot/models"
+	"github.com/Terisback/bot/models"
 )
 
 type mockDebugHandler struct {

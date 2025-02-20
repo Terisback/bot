@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/go-telegram/bot/models"
+	"github.com/Terisback/bot/models"
 )
 
 type inputMedia interface {
