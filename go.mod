@@ -1,3 +1,3 @@
-module github.com/go-telegram/bot
+module github.com/Terisback/bot
 
 go 1.18
